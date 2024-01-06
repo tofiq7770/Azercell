@@ -131,7 +131,7 @@
     height: 100px;
   }
   .photo {
-    background-image: url(../css/img/digital.jpeg);
+    background-image: url(../css/img/tariffs-bg_lg.svg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -181,14 +181,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-right: 970px;
     font-size: 52px;
     color: #ffffff;
   }
   .navcenter p {
     font-size: 14px;
     display: flex;
+    margin-left: 150px;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     color: #b298c3;
   }
   .navcenter p:last-child {
@@ -370,7 +372,6 @@
     display: flex;
     justify-content: center;
   }
-  /* Style for the transparent button */
   .list li {
     display: inline-block;
     margin: 5px;
@@ -394,287 +395,6 @@
     font-size: 12px;
     color: #e4dfef;
   }
-  .box {
-    margin-left: 150px;
-    color: white;
-    height: 360px;
-    width: 1128px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    transition: 1s;
-    background-image: url(.//img/1024x684-4.jpg.webp);
-  }
-  .box img {
-    margin: 30px;
-  }
-  .box h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box2 {
-    margin-left: 150px;
-    color: white;
-    height: 360px;
-    width: 1128px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/hero-background.png.webp);
-    transition: 1s;
-  }
-  .box2 img {
-    margin: 30px;
-  }
-  .box2 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box2 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box3 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 647px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/digital-apps-page-litres\(1\).png.webp);
-    transition: 1s;
-  }
-  .box3 img {
-    margin: 30px;
-  }
-  .box3 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box3 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box4 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 647px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/bg.png.webp);
-    transition: 1s;
-  }
-  .box4 img {
-    margin: 30px;
-  }
-  .box4 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box4 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box5 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 456px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/mosaic-kids.png.webp);
-    transition: 1s;
-  }
-  .box5 img {
-    margin: 30px;
-  }
-  .box5 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box5 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box6 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 456px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/background.jpg.webp);
-    transition: 1s;
-  }
-  .box6 img {
-    margin: 30px;
-  }
-  .box6 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box6 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box7 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 626px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/mosaic-nntv.png.webp);
-    transition: 1s;
-  }
-  .box7 img {
-    margin: 30px;
-  }
-  .box7 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box7 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box8 {
-    margin-left: 150px;
-    color: white;
-    height: 322px;
-    width: 456px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-image: url(../css/img/bulud-mosaic.jpg.webp);
-    transition: 1s;
-  }
-  .box8 img {
-    margin: 30px;
-  }
-  .box8 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box8 h2 {
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .gray {
-    background-color: #f9f9f9;
-  }
-  .box9 {
-    margin-left: 150px;
-    color: white;
-    height: 222px;
-    width: 552px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-color: white;
-    box-shadow: #000000;
-    transition: 1s;
-  }
-  .box9 img {
-    margin: 30px;
-  }
-  .box9 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box9 h2 {
-    color: #000000;
-    margin: 30px;
-    font-size: 32px;
-  }
-  
-  .box10 {
-    margin-left: 25px;
-    color: white;
-    height: 222px;
-    width: 552px;
-    border-radius: 20px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-decoration: transparent;
-    background-color: white;
-    box-shadow: #000000;
-    transition: 1s;
-  }
-  .box10 img {
-    margin: 30px;
-  }
-  .box10 h3 {
-    margin-top: 32px;
-    margin-right: 32px;
-  }
-  .box10 h2 {
-    color: #000000;
-    margin: 30px;
-    font-size: 32px;
-  }
-  .margin {
-    margin-top: 90px;
-  }
-  .marginx {
-    margin-top: 156px;
-    margin-right: 500px;
-    padding-right: 500px;
-  }
-  
-  .margin h4 {
-    font-size: 25px;
-    font-weight: 900;
-    margin-left: 150px;
-  }
-  
   .transparent-button {
     margin: 30px;
     color: white;
@@ -691,4 +411,229 @@
   .transparent-button:hover {
     opacity: 0.4;
   }
+  .gray{
+    background-color: #FAFAFA;
+  }
+  .list li{
+    display: inline-block;
+    margin: 5px;  
+    padding: 10px 20px;
+    height: 172px;
+    align-items: center;
+    width: 168px;
+    border: 2px solid white;
+    background-color: transparent;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    color: #5C2483;
+  }
+
+  .list li.clicked {
+    color: white;
+    background-color: #5C2483;
+  }
+
+
+  .form-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 30px;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+
+  .form-input {
+    width: 450px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    height: 50px;
+    box-sizing: border-box;
+  }
+
+  .orange-button {
+    background-color: #ff6600; /* Orange color */
+    color: #ffffff; /* Text color, you can adjust this to your preference */
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 200px; /* Make the button full width */
+    box-sizing: border-box;
+    height: 50px;
+  }
+
+  .orange-button:hover {
+    background-color: #e55e00; /* Darker orange on hover */
+  }
+  .center{
+    margin-top: 100px;
+    margin-left: 170px;
+  }
+  .centert{
+    margin-left: 170px;
+  }
+.bigbox{
+
+  height: 1080px;
+  width: 1080px;
+  border-radius: 20px;
+  background-color: white;
+}
+  .box{
+    height: 64px;
+    width: 1080px;
+    border-radius: 20px;
+    background-color: white;
+  }
+  .box p{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+  }
+
+
+  .application {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 55px;
+    margin-left: 100px;
+  }
+  .application h1 {
+    font-size: 50px;
+  }
+  .application p {
+    color: #818181;
+    font-size: 14px;
+  }
+  .application .button {
+    display: flex;
+  }
   
+  .app-store {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px gray solid;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    gap: 5px;
+    cursor: pointer;
+  }
+  .app-store a {
+    text-decoration: none;
+    color: black;
+  }
+  .app-store:hover {
+    opacity: 0.7;
+    transition: 0.3;
+  }
+  .play-store img {
+    height: 15px;
+    width: 15px;
+  }
+  .play-store {
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px gray solid;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    gap: 5px;
+    cursor: pointer;
+  }
+  .play-store a {
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+  }
+  .play-store:hover {
+    opacity: 0.7;
+    transition: 0.3;
+  }
+  .application .akart {
+    border: 1px #5c2483 solid;
+    background-color: #5c2483;
+    border-radius: 20px;
+    width: 350px;
+    height: 170px;
+    cursor: pointer;
+  }
+  .akart-text {
+    color: white;
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 30px;
+    gap: 20px;
+  }
+  .application .internet {
+    border: 1px #fefdfd solid;
+    border-radius: 20px;
+    background-color: #fefdfd;
+    width: 350px;
+    height: 170px;
+    cursor: pointer;
+  }
+  .b {
+    margin-right: 60px;
+  }
+  .t {
+    margin-right: 100px;
+    margin-top: 100px;
+  }
+  .a {
+    margin-right: 100px;
+    margin-top: 100px;
+  }
+  .application .internet .text p {
+    font-size: small;
+  }
+  .application .int-kart {
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 30px;
+    gap: 20px;
+  }
+  .application .internet:hover {
+    opacity: 0.6;
+    color: #b6b6b6;
+    transition: 0.3;
+  }
+  .application .phone-number {
+    border: 1px #fefdfd solid;
+    background-color: #fefdfd;
+    border-radius: 20px;
+    width: 350px;
+    height: 170px;
+    cursor: pointer;
+  }
+  .application .phone-number:hover {
+    opacity: 0.6;
+    color: #b6b6b6;
+    transition: 0.3;
+  }
+  
+  .application .phone-number .number {
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 30px;
+    gap: 20px;
+  }
+  
+  .pay {
+    cursor: pointer;
+    border: 1px #f35b0c solid;
+    border-radius: 30px;
+    background-color: #f35b0c;
+    height: 50px;
+    width: 200px;
+  }
